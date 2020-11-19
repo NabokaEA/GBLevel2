@@ -1,6 +1,7 @@
 package Level2_Lesson1;
 
 public class Obstacle {
+    // Суперкласс для трактования стены и беговой дорожки в одинаковой манерее (уровень австракции).
     public int getNumber() {
         return number;
     }
